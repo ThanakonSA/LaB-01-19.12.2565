@@ -1,0 +1,17 @@
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.csproj.AssemblyReference.cache
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB_01_19._12._2565.Form1.resources
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.csproj.GenerateResource.cache
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.AssemblyInfoInputs.cache
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.AssemblyInfo.cs
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.csproj.CoreCompileInputs.cache
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\bin\Debug\net6.0-windows\LaB-01-19.12.2565.exe
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\bin\Debug\net6.0-windows\LaB-01-19.12.2565.deps.json
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\bin\Debug\net6.0-windows\LaB-01-19.12.2565.runtimeconfig.json
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\bin\Debug\net6.0-windows\LaB-01-19.12.2565.dll
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\bin\Debug\net6.0-windows\LaB-01-19.12.2565.pdb
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.dll
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\refint\LaB-01-19.12.2565.dll
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.pdb
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\LaB-01-19.12.2565.genruntimeconfig.cache
+D:\OOP-A\LaB-01-19.12.2565\LaB-01-19.12.2565\obj\Debug\net6.0-windows\ref\LaB-01-19.12.2565.dll
